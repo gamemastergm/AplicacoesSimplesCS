@@ -1,0 +1,15 @@
+C:\Users\GameMaster\OneDrive\Programação\C#\SmallAplications\SmallAplications\bin\Debug\net6.0\SmallAplications.exe
+C:\Users\GameMaster\OneDrive\Programação\C#\SmallAplications\SmallAplications\bin\Debug\net6.0\SmallAplications.deps.json
+C:\Users\GameMaster\OneDrive\Programação\C#\SmallAplications\SmallAplications\bin\Debug\net6.0\SmallAplications.runtimeconfig.json
+C:\Users\GameMaster\OneDrive\Programação\C#\SmallAplications\SmallAplications\bin\Debug\net6.0\SmallAplications.dll
+C:\Users\GameMaster\OneDrive\Programação\C#\SmallAplications\SmallAplications\bin\Debug\net6.0\SmallAplications.pdb
+C:\Users\GameMaster\OneDrive\Programação\C#\SmallAplications\SmallAplications\obj\Debug\net6.0\SmallAplications.csproj.AssemblyReference.cache
+C:\Users\GameMaster\OneDrive\Programação\C#\SmallAplications\SmallAplications\obj\Debug\net6.0\SmallAplications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GameMaster\OneDrive\Programação\C#\SmallAplications\SmallAplications\obj\Debug\net6.0\SmallAplications.AssemblyInfoInputs.cache
+C:\Users\GameMaster\OneDrive\Programação\C#\SmallAplications\SmallAplications\obj\Debug\net6.0\SmallAplications.AssemblyInfo.cs
+C:\Users\GameMaster\OneDrive\Programação\C#\SmallAplications\SmallAplications\obj\Debug\net6.0\SmallAplications.csproj.CoreCompileInputs.cache
+C:\Users\GameMaster\OneDrive\Programação\C#\SmallAplications\SmallAplications\obj\Debug\net6.0\SmallAplications.dll
+C:\Users\GameMaster\OneDrive\Programação\C#\SmallAplications\SmallAplications\obj\Debug\net6.0\refint\SmallAplications.dll
+C:\Users\GameMaster\OneDrive\Programação\C#\SmallAplications\SmallAplications\obj\Debug\net6.0\SmallAplications.pdb
+C:\Users\GameMaster\OneDrive\Programação\C#\SmallAplications\SmallAplications\obj\Debug\net6.0\SmallAplications.genruntimeconfig.cache
+C:\Users\GameMaster\OneDrive\Programação\C#\SmallAplications\SmallAplications\obj\Debug\net6.0\ref\SmallAplications.dll
